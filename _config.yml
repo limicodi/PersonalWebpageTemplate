@@ -1,3 +1,5 @@
+#To start locally:
+# bundle exec jekyll serve
 # Site settings
 title: Your Name
 email: your.email@example.com
