@@ -1,5 +1,5 @@
-- title: "AI-Assisted Design Tool"
-  description: "An intelligent design assistant that leverages large language models to help users create UI prototypes through natural language interaction."
+- title: "Project Title One"
+  description: "Description of your first project. What it does, what technologies it uses, and what problem it solves."
   links:
     - label: "Demo"
       icon: "fas fa-fw fa-globe"
@@ -11,15 +11,15 @@
       icon: "fas fa-fw fa-file-pdf"
       url: "#"
 
-- title: "User Behavior Analytics Platform"
-  description: "A web-based platform for analyzing and visualizing user interaction patterns in complex software systems using machine learning techniques."
+- title: "Project Title Two"
+  description: "Description of your second project. What it does, what technologies it uses, and what problem it solves."
   links:
     - label: "Code"
       icon: "fab fa-fw fa-github"
       url: "#"
 
-- title: "Medical Image Segmentation"
-  description: "Deep learning pipeline for automated segmentation of medical images, achieving state-of-the-art performance on benchmark datasets."
+- title: "Project Title Three"
+  description: "Description of your third project. What it does, what technologies it uses, and what problem it solves."
   links:
     - label: "Paper"
       icon: "fas fa-fw fa-file-pdf"

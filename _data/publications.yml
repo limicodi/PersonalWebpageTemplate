@@ -1,7 +1,7 @@
-- title: "Sample Paper Title: A Novel Approach to Something Important"
+- title: "Paper Title One: A Novel Approach to XXX for YYY"
   authors: "<strong>Your Name</strong>, Coauthor One, Coauthor Two*"
-  venue: "Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)"
-  year: 2025
+  venue: "Proceedings of the XYZ Conference on ABCDEF and GHIJKL (XXX)"
+  year: 2000
   links:
     - label: "PDF"
       icon: "fas fa-fw fa-file-pdf"
@@ -13,10 +13,10 @@
       icon: "fab fa-fw fa-github"
       url: "#"
 
-- title: "Another Research Paper on Machine Learning Applications"
+- title: "Paper Title Two: Exploring the Impact of XXX on YYY"
   authors: "Coauthor One*, <strong>Your Name</strong>, Coauthor Three"
-  venue: "IEEE Transactions on Neural Networks and Learning Systems"
-  year: 2024
+  venue: "ABC Transactions on XXXX and YYYY"
+  year: 2000
   links:
     - label: "PDF"
       icon: "fas fa-fw fa-file-pdf"
@@ -25,10 +25,10 @@
       icon: "fas fa-fw fa-link"
       url: "#"
 
-- title: "CoIntelligent XXX: An Interactive Super Framework for XYZ in Agentic Agents"
+- title: "Paper Title Three: An Interactive Framework for XXX in YYY"
   authors: "<strong>Your Name</strong>, Coauthor Two*"
-  venue: "ACM Symposium on User Interface Software and Technology (UIST)"
-  year: 2023
+  venue: "XYZ Symposium on ABCDEF Software and Technology (ABC)"
+  year: 2000
   links:
     - label: "PDF"
       icon: "fas fa-fw fa-file-pdf"
