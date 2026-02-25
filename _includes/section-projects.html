@@ -4,7 +4,7 @@
     {% for project in site.data.projects %}
     <div class="project-card">
       <h3 class="archive__item-title no_toc">{{ project.title }}</h3>
-      <p class="archive__item-excerpt">{{ project.description }}</p>
+      <p class="archive__item-excerpt proj-description">{{ project.description }}</p>
       <p>
         {% for link in project.links %}
           <a href="{{ link.url }}" class="btn btn--inverse btn--small"><i class="{{ link.icon }}"></i> {{ link.label }}</a>

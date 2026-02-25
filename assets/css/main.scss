@@ -106,6 +106,21 @@ section.page__content:last-child {
   margin: 0;
 }
 
+/* Experience description font size*/
+#experience .archive__item-excerpt.exp-description {
+  font-size: 0.8em !important;
+}
+
+/* Projects description font size*/
+#projects .archive__item-excerpt.proj-description {
+  font-size: 0.8em !important;
+}
+
+/* Achievements description font size*/
+#achievements .archive__item-excerpt.achv-description {
+  font-size: 0.8em !important;
+}
+
 /* Active nav link highlighting */
 .greedy-nav a.active-section {
   color: $primary-color;
